@@ -1,6 +1,6 @@
 # Hassan's Profile
 
-👋 **Salut, je suis Hassan** !
+👋 **Salut, je suis Hassan Es-Sabbani** !
 
 Je suis un développeur passionné par **le développement web full-stack**, la **science des données**, et la **gestion de projets agiles**.
 
@@ -9,11 +9,11 @@ Je suis un développeur passionné par **le développement web full-stack**, la 
 - **Node.js** pour renforcer mes compétences backend 🌱
 
 ### 🤝 **Collaborations** :
-Je cherche à collaborer sur des projets **open-source** liés aux applications web et aux **plateformes basées sur les données**.
+Je cherche à collaborer sur des projets **open-source** liés aux applications ou site web et aux **plateformes basées sur les données**.
 
 ### 📬 **Comment me contacter** :
 - Email : [hassanbussiness927@gmail.com](mailto:hassanbussiness927@gmail.com)
-- LinkedIn : [Hassan sur LinkedIn](https://www.linkedin.com/in/hassanbussiness927)
+- LinkedIn : [Hassan sur LinkedIn](www.linkedin.com/in/developper-t)
 
 ### ⚡ **Fun fact** :
 J'adore résoudre des **défis de codage** et **explorer de nouveaux frameworks** pendant mon temps libre !
