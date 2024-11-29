@@ -31,4 +31,4 @@ J'adore résoudre des **défis de codage** et **explorer de nouveaux frameworks*
 ---
 
 ## 📊 **Mes statistiques GitHub** :
-![Hassan Es-sabbani GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassan&show_icons=true&theme=radical)
+![Hassan Es-sabbani GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassan_sabbani&show_icons=true&theme=radical)
