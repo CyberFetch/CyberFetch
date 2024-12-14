@@ -12,8 +12,8 @@ Je suis un développeur passionné par **le développement web full-stack**, la 
 Je cherche à collaborer sur des projets **open-source** liés aux applications ou site web et aux **plateformes basées sur les données**.
 
 ### 📬 **Comment me contacter** :
-- Email : [hassanbussiness927@gmail.com](mailto:hassanbussiness927@gmail.com)
-- LinkedIn : [Hassan sur LinkedIn](www.linkedin.com/in/developper-t)
+- Email : [essabbanihassan@gmail.com](mailto:essabbanihassan@gmail.com)
+- LinkedIn : [Hassan sur LinkedIn](www.linkedin.com/in/hassansebbani)
 
 ### ⚡ **Fun fact** :
 J'adore résoudre des **défis de codage** et **explorer de nouveaux frameworks** pendant mon temps libre !
