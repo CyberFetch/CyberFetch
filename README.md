@@ -12,7 +12,7 @@ Je suis un développeur passionné par **le développement web full-stack**, la 
 Je cherche à collaborer sur des projets **open-source** liés aux applications ou site web et aux **plateformes basées sur les données**.
 
 ### 📬 **Comment me contacter** :
-- Email : [essabbanihassan@gmail.com](mailto:essabbanihassan@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:essabbanihassan@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](www.linkedin.com/in/hassansebbani)
 
 
