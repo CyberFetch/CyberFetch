@@ -13,7 +13,8 @@ Je cherche à collaborer sur des projets **open-source** liés aux applications 
 
 ### 📬 **Comment me contacter** :
 - Email : [essabbanihassan@gmail.com](mailto:essabbanihassan@gmail.com)
-- LinkedIn : [Hassan sur LinkedIn](www.linkedin.com/in/hassansebbani)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](www.linkedin.com/in/hassansebbani)
+
 
 ### ⚡ **Fun fact** :
 J'adore résoudre des **défis de codage** et **explorer de nouveaux frameworks** pendant mon temps libre !
