@@ -22,7 +22,7 @@ J'adore résoudre des **défis de codage** et **explorer de nouveaux frameworks*
 ---
 
 ## 💻 **Langages et technologies** que j'utilise :
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -41,4 +41,4 @@ J'adore résoudre des **défis de codage** et **explorer de nouveaux frameworks*
 
 ## 📊 **Mes statistiques GitHub** :
 ![Hassan Es-sabbani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan&show_icons=true&theme=radical&hide=issues&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan&show)](https://github.com/anuraghazra/github-readme-stats)
+
